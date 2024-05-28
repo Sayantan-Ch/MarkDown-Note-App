@@ -1,9 +1,8 @@
-# MarkDown-Note-App
-The app employs Node.js for server-side logic, Express.js for routing, Multer for handling file uploads, and Sequelize ORM for interacting with the PostgreSQL database. It offers endpoints for checking grammar, saving notes, and rendering notes in HTML format.
-
 # Markdown Note-taking App
 
 Markdown Note-taking App is a web application designed for users who prefer Markdown syntax for note-taking. It provides functionalities to create, edit, save, and render Markdown notes into HTML format. The application is built using Node.js, Express.js, PostgreSQL, and various text processing libraries.
+
+The app employs Node.js for server-side logic, Express.js for routing, Multer for handling file uploads, and Sequelize ORM for interacting with the PostgreSQL database. It offers endpoints for checking grammar, saving notes, and rendering notes in HTML format.
 
 ## Features
 
